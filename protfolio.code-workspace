@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../Desktop/protfolio"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../protfolio2 use bootstrab"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Exam(protfolio)"
+	}
+}
